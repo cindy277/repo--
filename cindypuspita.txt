@@ -2,3 +2,5 @@ Nama    : Cindy Puspita Wardani
 Nim     : 6701204003
 Ttl     : Karanganyar, 27 Agustus 2002
 IPK     : 3,38
+Hobi    : Olaharaga
+Cita-cita : Pintar
